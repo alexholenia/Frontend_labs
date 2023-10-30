@@ -1,0 +1,7 @@
+table, th, td {
+    border: 1px dashed rgb(10, 238, 40);
+}
+
+h2 {
+    color: rgb(25, 0, 255);
+}
